@@ -113,7 +113,9 @@ text-decoration: none;
 
  /* ACCORDION */
 
-
+ .accordion{
+  padding: 20px 0;
+ }
 
 
 
