@@ -45,7 +45,7 @@ ion-icon {
 nav{
     font-size: 1.5rem;
     padding: 8px 8px;
-    background-color:  rgb(196, 93, 33);
+    /* background-color:  rgb(196, 93, 33); */
     color: white;
      
     border: 3px solid gray;
